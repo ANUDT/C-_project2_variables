@@ -7,10 +7,12 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What is you name?");
+            Console.WriteLine("What is your name and how are you today?");
 
             string userName = Console.ReadLine() ?? "Unknown User";
-            Console.WriteLine("Hello" + userName + ", nice to meet you!");
+
+            Console.WriteLine("Hi," + userName + ", nice to meet you!");
+   
             Console.ReadKey();
         }
        
