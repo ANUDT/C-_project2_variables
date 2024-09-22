@@ -12,6 +12,14 @@ namespace MyApp
             string userName = Console.ReadLine() ?? "Unknown User";
 
             Console.WriteLine("Hi," + userName + ", nice to meet you!");
+
+            int num01;
+            int numb02;
+
+            Console.Write("input a number: ");
+
+            num01 = Convert.ToInt32(Console.ReadLine());
+
    
             Console.ReadKey();
         }
