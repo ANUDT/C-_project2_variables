@@ -27,14 +27,14 @@ namespace MyApp
 
             double num03;
             double numb04;
-            Console.Write("input a number: ");
+            Console.Write("input with decibels: ");
             num03 = Convert.ToDouble(Console.ReadLine());
-            Console.Write("input a second number: ");
+            Console.Write("input a second number with decibels: ");
             numb04 = Convert.ToDouble(Console.ReadLine());
             //this is to store the result
             double results = num03 * numb04;
             // Showing the outcome
-            Console.WriteLine("The result of this is  " + results);
+            Console.WriteLine("The result of this decibel number is  " + results);
             Console.ReadKey();
 
             int num05;
