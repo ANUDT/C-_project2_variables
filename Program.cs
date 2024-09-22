@@ -50,6 +50,7 @@ namespace MyApp
             int finalResult = num05 + numb06 + numb07 / 3;
             // Showing the outcome
             Console.Write("The Final result of all 3 numbers dived is " + finalResult);
+            Console.ReadKey();
 
         }
 
