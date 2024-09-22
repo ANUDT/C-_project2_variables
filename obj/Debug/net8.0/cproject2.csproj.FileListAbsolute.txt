@@ -1,0 +1,14 @@
+C:\Users\Adebi\Documents\cproject2\bin\Debug\net8.0\cproject2.exe
+C:\Users\Adebi\Documents\cproject2\bin\Debug\net8.0\cproject2.deps.json
+C:\Users\Adebi\Documents\cproject2\bin\Debug\net8.0\cproject2.runtimeconfig.json
+C:\Users\Adebi\Documents\cproject2\bin\Debug\net8.0\cproject2.dll
+C:\Users\Adebi\Documents\cproject2\bin\Debug\net8.0\cproject2.pdb
+C:\Users\Adebi\Documents\cproject2\obj\Debug\net8.0\cproject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adebi\Documents\cproject2\obj\Debug\net8.0\cproject2.AssemblyInfoInputs.cache
+C:\Users\Adebi\Documents\cproject2\obj\Debug\net8.0\cproject2.AssemblyInfo.cs
+C:\Users\Adebi\Documents\cproject2\obj\Debug\net8.0\cproject2.csproj.CoreCompileInputs.cache
+C:\Users\Adebi\Documents\cproject2\obj\Debug\net8.0\cproject2.dll
+C:\Users\Adebi\Documents\cproject2\obj\Debug\net8.0\refint\cproject2.dll
+C:\Users\Adebi\Documents\cproject2\obj\Debug\net8.0\cproject2.pdb
+C:\Users\Adebi\Documents\cproject2\obj\Debug\net8.0\cproject2.genruntimeconfig.cache
+C:\Users\Adebi\Documents\cproject2\obj\Debug\net8.0\ref\cproject2.dll
